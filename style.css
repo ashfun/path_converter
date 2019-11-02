@@ -1,34 +1,34 @@
 body {
-	background-color: #F5F5F5;
+  background-color: #F5F5F5;
 }
 
 header {
-	height: 100px;
-    line-height: 100px;
-	text-align: center;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
 }
 
 h1 {
-	display: inline-block;
-    vertical-align: middle;
-	font-size: 50px;
-	line-height: 50px;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 50px;
+  line-height: 50px;
 }
 
 .title-icon{
-	display: inline-block;
-    vertical-align: middle;
+  display: inline-block;
+  vertical-align: middle;
   height: 50px;
 }
 
 h2.mac {
-	color: #424242;
-	margin: 20px 50px 0;
+  color: #424242;
+  margin: 20px 50px 0;
 }
 
 h2.win {
-	color: #009688;
-	margin: 20px 50px 0;
+  color: #009688;
+  margin: 20px 50px 0;
 }
 
 .icon-to-mac{
@@ -38,7 +38,7 @@ h2.win {
   fill: #4DB6AC;
 }
 .arrow-icon{
-  width: 50px;	
+  width: 50px;
   padding: 25px 20px;
   margin: 0 0 10px 0;
 }
@@ -53,37 +53,37 @@ h2.win {
 }
 
 .to-mac {
-	background-color: #BDBDBD;
-	margin: 0 50px;
-	padding: 25px;
-	text-align: center;
-	border-radius: 5px;
-	transition: box-shadow 2s;
-  	-webkit-transition: box-shadow 0.3s;
+  background-color: #BDBDBD;
+  margin: 0 50px;
+  padding: 25px;
+  text-align: center;
+  border-radius: 5px;
+  transition: box-shadow 2s;
+  -webkit-transition: box-shadow 0.3s;
 }
 
 .to-mac:hover {
-	box-shadow: 0 5px 8px gray;
+  box-shadow: 0 5px 8px gray;
 }
 
 .to-win {
-	background-color: #B2DFDB;
-	margin: 0 50px;
-	padding: 25px;
-	text-align: center;
-	border-radius: 5px;
-	transition: box-shadow 2s;
-  	-webkit-transition: box-shadow 0.3s;
+  background-color: #B2DFDB;
+  margin: 0 50px;
+  padding: 25px;
+  text-align: center;
+  border-radius: 5px;
+  transition: box-shadow 2s;
+  -webkit-transition: box-shadow 0.3s;
 }
 
 .to-win:hover {
-	box-shadow: 0 5px 8px gray;
+  box-shadow: 0 5px 8px gray;
 }
 
 input[type="text"] {
-	width:70%;
-	font-size: 15px;
-	line-height: 30px;
+  width: 70%;
+  font-size: 15px;
+  line-height: 30px;
 }
 
 .btn-to-mac {
@@ -141,9 +141,9 @@ input[type="text"] {
 }
 
 .text_to_mac {
- color: #616161;
+  color: #616161;
 }
 
 .text_to_win {
-	color: #26A69A;
+  color: #26A69A;
 }
